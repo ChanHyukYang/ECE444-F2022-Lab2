@@ -24,7 +24,6 @@ Activity 4:
 
 ![](images/commit4.png)
 ![](images/commit5.png)
-![](images/img4.png)
 ![](images/img5.png)
 ![](images/img6.png)
 ![](images/img7.png)
